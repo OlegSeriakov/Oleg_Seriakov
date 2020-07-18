@@ -1,0 +1,100 @@
+html{
+    font-family:sans-serif;
+    text-size-adjust:100%;
+    text-size-adjust:100%;
+}
+body{
+    background:#f2f2f2;
+    margin:0;
+    padding:0;
+    font-family:"PT Sans",Arial,sans-serif;
+    font-size:12px;
+    line-height:24px;
+    font-weight:400;
+    color:#333;
+    text-transform:uppercase;
+    min-width:320px;
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    list-style-type: none;
+}
+.sedona_arisone{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.sedona_5{
+    display: flex;
+    justify-content: center;
+}
+.blok_4{
+border: solid;
+
+ }
+.real_town {
+
+}
+.r_1{
+    
+    
+}
+ 
+.no_attraction{
+    
+}
+.blok_5 {
+
+border: solid;
+
+}
+
+.first_blok_home{
+border: solid;
+}
+.home_icon{
+    border: solid;
+}
+.home_word{
+    border: solid;
+}
+.dhome{
+    border: solid;
+}
+.souvenirs_blok{
+    border: solid;
+}
+.foot_blok{
+    border: solid;
+}
+.souvenirs_icon{
+    border: solid;
+    
+}
+.souvenirs_word{
+    border: solid;
+}
+.dsouvenirs{
+    border: solid;
+}
+.foot_icon{
+    border: solid;
+}
+.foot_word{
+    border: solid;
+}
+.dfoot{
+    border: solid;
+}
+.blok_6{
+    border: solid;
+}
+.interest{
+    border: solid;
+}
+.date1{
+    border: solid;
+}
